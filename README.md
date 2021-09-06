@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @gsytutorials
+- 👋  Hi, I’m Gino Sesia
 - 👀  I’m interested in Coding
 - 🌱  I’m currently learning React
 - 💞️  I’m looking to share my knowledge and make it easier for beginners to start learning how to code and make cool things
